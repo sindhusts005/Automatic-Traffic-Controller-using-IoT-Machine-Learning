@@ -1,0 +1,2 @@
+# Automatic-Traffic-Controller-using-IoT-Machine-Learning
+Automatic Traffic Controller using IoT and Machine Learning is an intelligent system that dynamically manages traffic signals based on real-time vehicle flow. Using LiDAR sensors, the system detects the number of vehicles at a junction and feeds this data to a machine learning model (SVM) trained to decide the optimal green signal duration. 
